@@ -1,2 +1,0 @@
-# genome
-Created with CodeSandbox
